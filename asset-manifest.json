@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AppleStore_Frontend/static/css/main.0faa0e77.css",
-    "main.js": "/AppleStore_Frontend/static/js/main.bfeecde8.js",
+    "main.css": "/AppleStore_Frontend/static/css/main.6cf08b14.css",
+    "main.js": "/AppleStore_Frontend/static/js/main.68aed15a.js",
     "static/media/HomePod mini.png": "/AppleStore_Frontend/static/media/HomePod mini.7e1b55772c1362d65d5d.png",
     "static/media/MacBook Air (M1, 2020).png": "/AppleStore_Frontend/static/media/MacBook Air (M1, 2020).e048b0f90e92b6055bbd.png",
     "static/media/ipad air 4th gen.png": "/AppleStore_Frontend/static/media/ipad air 4th gen.eec81253fb83ea68533a.png",
@@ -13,11 +13,11 @@
     "static/media/MacBook Air (M1, 2020).jpg": "/AppleStore_Frontend/static/media/MacBook Air (M1, 2020).ce441c0cf9e7e861c17b.jpg",
     "static/media/apple-iphone-13-pro-01.jpg": "/AppleStore_Frontend/static/media/apple-iphone-13-pro-01.07c0ac631d9bae9cc702.jpg",
     "index.html": "/AppleStore_Frontend/index.html",
-    "main.0faa0e77.css.map": "/AppleStore_Frontend/static/css/main.0faa0e77.css.map",
-    "main.bfeecde8.js.map": "/AppleStore_Frontend/static/js/main.bfeecde8.js.map"
+    "main.6cf08b14.css.map": "/AppleStore_Frontend/static/css/main.6cf08b14.css.map",
+    "main.68aed15a.js.map": "/AppleStore_Frontend/static/js/main.68aed15a.js.map"
   },
   "entrypoints": [
-    "static/css/main.0faa0e77.css",
-    "static/js/main.bfeecde8.js"
+    "static/css/main.6cf08b14.css",
+    "static/js/main.68aed15a.js"
   ]
 }
