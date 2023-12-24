@@ -1,4 +1,4 @@
-# Assignment Title: Frontend Engineer - Apple Website Team 
+# Frontend Engineer - Apple Website Team 
 
 This project is a web page showcasing a selected product from Apple's lineup, developed as part of a frontend development assignment. The goal is to demonstrate frontend development skills and the ability to contribute to the Apple Website Team.
 
