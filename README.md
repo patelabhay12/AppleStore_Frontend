@@ -13,12 +13,15 @@ This project is a web page showcasing a selected product from Apple's lineup, de
 
 
 2. Navigate to the project directory:
+
    ``bash
    cd your-repository
-3. Install the dependencies:
+4. Install the dependencies:
+   
    ``bash
    npm install
-4. Start the project
+6. Start the project
+   
    ``bash
    npm start
  
